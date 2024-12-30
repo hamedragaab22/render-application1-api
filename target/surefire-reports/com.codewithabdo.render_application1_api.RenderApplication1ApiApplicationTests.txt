@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.codewithabdo.render_application1_api.RenderApplication1ApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.551 s -- in com.codewithabdo.render_application1_api.RenderApplication1ApiApplicationTests
